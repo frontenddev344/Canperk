@@ -1,0 +1,348 @@
+@media (max-width: 1199px) {
+  .container {
+    max-width: 1400px !important;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 30px;
+  }
+  .luxury-hotel__content h1 {
+    font-size: 45px;
+  }
+  .experience__content p {
+    font-size: 19px;
+    line-height: 30px;
+    padding: 24px 0;
+  }
+  .d {
+    padding: 33px 30px;
+  }
+  .f {
+    padding: 33px 30px;
+  }
+}
+@media (max-width: 1024px) {
+  .home__text h3 {
+    font-size: 26px;
+  }
+  .banner__main {
+    height: 500px;
+  }
+  .contacts__links li {
+    font-size: 14px;
+    line-height: 26px;
+  }
+  .Track_part p {
+    font-size: 16px;
+  }
+  .Track_part h3 {
+    font-size: 17px;
+  }
+  .Track_btn a {
+    padding: 13px 21px;
+  }
+  p.deal__para {
+    font-size: 15px;
+    line-height: 25px;
+  }
+  .culinary__card p {
+    font-size: 14px;
+  }
+  .culinary__card h1 {
+    font-size: 14px;
+  }
+  .Culinary-content h1 {
+    font-size: 60px;
+  }
+}
+@media (max-width: 991px) {
+  .contact-text {
+    padding: 40px 0;
+  }
+  .contact-banner {
+    height: 500px;
+  }
+  .privacy-banner {
+    height: 500px;
+  }
+  .terms-banner {
+    height: 500px;
+  }
+  .contact__text h2 {
+    font-size: 50px;
+  }
+  .banner__main img {
+    height: 100%;
+  }
+  .experience__content h3 {
+    font-size: 16px;
+  }
+  .experience__content p {
+    font-size: 16px;
+    line-height: 25px;
+  }
+  .part {
+    padding: 0;
+    margin-left: 0;
+    width: auto;
+  }
+  .f {
+    margin-right: 0;
+    width: auto;
+  }
+  footer .Useful_link ul li a {
+    font-size: 15px;
+  }
+  p.unfogettable {
+    font-size: 19px;
+    line-height: 28px;
+  }
+}
+@media (max-width: 768px) {
+  .luxury-hotel__content h1 {
+    font-size: 36px;
+  }
+  .luxury-hotel__content span {
+    font-size: 16px;
+    line-height: 23px;
+  }
+  .luxury-hotel__content.experience h1 {
+    font-size: 32px;
+  }
+  .luxury-hotel__content.experience p {
+    max-width: 100%;
+  }
+  footer .policey ul {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+  }
+  .policey {
+    text-align: center;
+  }
+  footer .copyrights p {
+    text-align: center;
+  }
+  p.unfogettable {
+    font-size: 20px;
+    max-width: 100%;
+    line-height: 28px;
+    text-align: center;
+    margin: 0 auto;
+  }
+  .track_img {
+    height: 100%;
+  }
+  .Track_part h3 {
+    font-size: 15px;
+    white-space: nowrap;
+  }
+  .Track_part p {
+    font-size: 14px;
+  }
+  .img.img-fluid.img {
+    height: 100%;
+  }
+  .Track_part {
+    padding-bottom: 25px;
+    padding-top: 10px;
+  }
+  .Track_part.left {
+    padding-top: 10px;
+  }
+  p.deal__para {
+    max-width: 100%;
+    font-size: 14px;
+    line-height: 23px;
+  }
+}
+@media (max-width: 767px) {
+  footer {
+    text-align: center;
+  }
+  footer .Useful_link {
+    margin-top: 20px;
+  }
+  .copyright .row {
+    flex-direction: column-reverse;
+  }
+  .Track_part {
+    padding-left: 0px;
+  }
+  .Track_part.left {
+    padding-right: 0px;
+  }
+  .Track_part p {
+    font-size: 18px;
+  }
+  .attraction__lines p {
+    font-size: 15px;
+    line-height: 24px;
+  }
+}
+@media (max-width: 575px) {
+  .contact__para p {
+    font-size: 16px;
+    line-height: 23px;
+    text-align: justify;
+  }
+  .contact__text h2 {
+    font-size: 44px;
+  }
+  .contacts__links p {
+    font-size: 16px;
+    line-height: 22px;
+    text-align: justify;
+  }
+  .site-header .site-btn a {
+    padding: 8px 17px;
+  }
+  .site-nav {
+    width: 100%;
+  }
+  .luxury-hotel__content h1 {
+    font-size: 30px;
+  }
+  .luxury-hotel__content span {
+    font-size: 15px;
+  }
+  .terms-banner h2 {
+    white-space: nowrap;
+  }
+  .attraction__lines p {
+    font-size: 16px;
+    line-height: 26px;
+    max-width: 100%;
+  }
+  .luxury-hotel__content.experience h1 {
+    font-size: 24px !important;
+  }
+  .luxury-hotel__content p {
+    font-size: 15px;
+    line-height: 19px;
+  }
+  p.deal__para {
+    font-size: 13px;
+    line-height: 19px;
+    font-family: "Sarabun";
+    max-width: 100%;
+  }
+  .Culinary-content h1 {
+    font-size: 35px;
+  }
+}
+@media (max-width: 425px) {
+  .site-header .site-btn a {
+    padding: 8px 7px;
+  }
+  .luxury-hotel__content h1 {
+    font-size: 25px;
+  }
+  .luxury-hotel__content span {
+    font-size: 13px;
+    line-height: 18px;
+  }
+  .content__text p {
+    font-size: 15px;
+    line-height: 24px;
+    margin-bottom: 0px;
+    text-align: justify;
+  }
+  .site-header .site-logo img {
+    max-width: 160px;
+  }
+  p.rated {
+    padding: 30px 0 0px 0 !important;
+  }
+  .contacts__links li {
+    font-size: 13px;
+    line-height: 23px;
+  }
+  .attraction__lines p {
+    font-size: 14px;
+    line-height: 23px;
+    padding: 0;
+  }
+  p.unfogettable {
+    font-size: 15px;
+    line-height: 23px;
+  }
+  .luxury-hotel__content.experience h1 {
+    font-size: 17px !important;
+  }
+  .Track_part p {
+    font-size: 16px;
+  }
+  p.deal__para {
+    font-size: 13px;
+    line-height: 20px;
+    font-family: "Barlow";
+    max-width: 100%;
+    padding: 25px 10px 0 0;
+    text-align: justify;
+  }
+  .Culinary-content h1 {
+    font-size: 23px;
+  }
+  .culinary__part {
+    padding: 50px 0 0 0;
+  }
+}
+@media (max-width: 395px) {
+  .contact__text h2 {
+    font-size: 35px;
+  }
+  .contacts__links h3 {
+    font-size: 19px;
+  }
+  .contacts__links p {
+    font-size: 14px;
+    line-height: 21px;
+  }
+  .contact__para p {
+    font-size: 14px;
+    line-height: 21px;
+  }
+  .luxury-hotel__content h1 {
+    font-size: 23px;
+  }
+  .luxury-hotel__content span {
+    font-size: 12px;
+  }
+  .luxury-hotel__content p {
+    font-size: 13px;
+    line-height: 18px;
+  }
+  .content__text p {
+    font-size: 15px;
+    line-height: 22px;
+    text-align: justify;
+  }
+  .site-header .site-logo img {
+    max-width: 120px;
+  }
+  .site-header .site-btn a {
+    padding: 6px 11px;
+  }
+  .site-header .container {
+    padding: 10px;
+  }
+  .experience__content p {
+    text-align: justify;
+  }
+  .experience__content h3 {
+    font-size: 15px;
+    letter-spacing: 0;
+    white-space: nowrap;
+  }
+  .d {
+    padding: 33px 21px;
+  }
+  .Track_part p {
+    font-size: 18px;
+  }
+  p.deal__para {
+    font-size: 12px;
+  }
+}
+
+/*# sourceMappingURL=responsive.css.map */
