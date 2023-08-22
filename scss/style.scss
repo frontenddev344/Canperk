@@ -183,12 +183,15 @@ html {
 .banner__section>.container-fluid {
     padding: 0;
 }
+
 .banner__main.overlay img {
     object-fit: cover !important;
 }
+
 .banner__main img.img-fluid {
     object-fit: cover;
 }
+
 .banner__section {
     position: relative;
 }
@@ -670,6 +673,7 @@ p.deal__para {
     inset: 0;
     background: rgba(0, 0, 0, 50%);
 }
+
 h3.contacts__term {
     font-size: 25px;
     margin-bottom: 10px;
@@ -677,6 +681,7 @@ h3.contacts__term {
     font-family: "Barlow";
     font-weight: 500;
 }
+
 .terms .contacts__links p {
     margin-bottom: 10px;
 }
