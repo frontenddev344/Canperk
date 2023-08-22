@@ -186,6 +186,9 @@ html {
 .banner__main.overlay img {
     object-fit: cover !important;
 }
+.banner__main img.img-fluid {
+    object-fit: cover;
+}
 .banner__section {
     position: relative;
 }

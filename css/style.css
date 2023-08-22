@@ -165,6 +165,10 @@ html {
   object-fit: cover !important;
 }
 
+.banner__main img.img-fluid {
+  object-fit: cover;
+}
+
 .banner__section {
   position: relative;
 }
