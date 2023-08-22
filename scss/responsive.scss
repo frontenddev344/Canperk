@@ -207,7 +207,11 @@
             margin-top: 20px;
         }
     }
-
+    .footer-logo {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
     .copyright .row {
         flex-direction: column-reverse;
     }
