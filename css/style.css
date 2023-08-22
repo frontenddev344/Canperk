@@ -621,6 +621,14 @@ p.deal__para {
   background: rgba(0, 0, 0, 0.5);
 }
 
+h3.contacts__term {
+  font-size: 25px;
+  margin-bottom: 10px;
+  color: #664d03;
+  font-family: "Barlow";
+  font-weight: 500;
+}
+
 .terms .contacts__links p {
   margin-bottom: 10px;
 }
