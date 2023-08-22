@@ -162,7 +162,7 @@ html {
 }
 
 .banner__main.overlay img {
-  object-fit: cover;
+  object-fit: cover !important;
 }
 
 .banner__section {

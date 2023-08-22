@@ -184,7 +184,7 @@ html {
     padding: 0;
 }
 .banner__main.overlay img {
-    object-fit: cover;
+    object-fit: cover !important;
 }
 .banner__section {
     position: relative;
