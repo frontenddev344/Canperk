@@ -183,7 +183,9 @@ html {
 .banner__section>.container-fluid {
     padding: 0;
 }
-
+.banner__main.overlay img {
+    object-fit: cover;
+}
 .banner__section {
     position: relative;
 }
