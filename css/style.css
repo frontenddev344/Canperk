@@ -925,8 +925,6 @@ footer .policey ul li a:hover {
     font-size: 19px;
     line-height: 28px;
   }
-}
-@media (max-width: 820px) {
   .Track_part p {
     font-size: 14px;
   }
@@ -935,9 +933,6 @@ footer .policey ul li a:hover {
   }
   .Track_part h3 {
     line-height: 20px;
-  }
-  .contact__text h2 {
-    font-size: 36px;
   }
 }
 @media (max-width: 768px) {
