@@ -52,9 +52,11 @@ html {
     color: #fce479;
     font-weight: 700;
 }
+
 .closed-menu {
     cursor: pointer;
 }
+
 .site-header {
     padding: 10px 0;
     background: transparent;
@@ -236,9 +238,11 @@ html {
     height: 700px;
     object-fit: cover;
 }
+
 .banner__main.overlay {
     height: 450px;
 }
+
 .banner__main .overlay::after {
     content: none;
 }
@@ -897,6 +901,7 @@ footer {
         }
     }
 }
+
 footer .policey ul li a:hover {
     transform: translateY(-10px);
     color: white;
