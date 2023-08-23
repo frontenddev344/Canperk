@@ -88,6 +88,14 @@
     line-height: 28px;
   }
 }
+@media (max-width: 820px) {
+  .Track_part p {
+    font-size: 14px;
+  }
+  .Track_btn a {
+    padding: 9px 21px;
+  }
+}
 @media (max-width: 768px) {
   .luxury-hotel__content h1 {
     font-size: 36px;
