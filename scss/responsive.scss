@@ -236,6 +236,9 @@
         font-size: 15px;
         line-height: 24px;
     }
+    .home__text{
+        min-height: auto !important;
+    }
 }
 
 @media (max-width:575px) {
