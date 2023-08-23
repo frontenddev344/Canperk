@@ -208,6 +208,10 @@ html {
   object-fit: cover;
 }
 
+.banner__main.overlay {
+  height: 450px;
+}
+
 .banner__main .overlay::after {
   content: none;
 }
@@ -540,7 +544,7 @@ p.deal__para {
   background-size: cover;
   background-position: center;
   position: relative;
-  height: 600px;
+  height: 450px;
 }
 
 .contact-banner::after {
@@ -603,7 +607,7 @@ p.deal__para {
   background-size: cover;
   background-position: center;
   position: relative;
-  height: 600px;
+  height: 450px;
 }
 
 .privacy-banner::after {
@@ -619,7 +623,7 @@ p.deal__para {
   background-size: cover;
   background-position: center;
   position: relative;
-  height: 600px;
+  height: 450px;
 }
 
 .terms-banner::after {
