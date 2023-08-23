@@ -926,6 +926,9 @@ footer .policey ul li a:hover {
   .Track_btn a {
     padding: 9px 21px;
   }
+  .Track_part h3 {
+    line-height: 20px;
+  }
 }
 @media (max-width: 768px) {
   .luxury-hotel__content h1 {
