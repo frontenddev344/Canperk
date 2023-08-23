@@ -41,6 +41,11 @@ html {
 }
 
 /*global end*/
+.site-header .site-nav ul li a.active {
+  color: #fff;
+  font-weight: 700;
+}
+
 .site-header {
   padding: 10px 0;
   background: transparent;
