@@ -991,6 +991,9 @@ footer .policey ul li a:hover {
     font-size: 40px;
     white-space: nowrap;
   }
+  .privacy-banner {
+    background-position: inherit;
+  }
 }
 @media (max-width: 767px) {
   footer {
