@@ -183,7 +183,7 @@ html {
 }
 
 .banner__main::after {
-  background-color: rgba(0, 0, 0, 0.3);
+  background-color: rgba(0, 0, 0, 0.43);
   content: "";
   position: absolute;
   inset: 0;
@@ -551,7 +551,7 @@ p.deal__para {
   content: "";
   position: absolute;
   inset: 0;
-  background: rgba(0, 0, 0, 0.5);
+  background: rgba(0, 0, 0, 0.43);
 }
 
 .contact__text {
@@ -614,7 +614,7 @@ p.deal__para {
   content: "";
   position: absolute;
   inset: 0;
-  background: rgba(0, 0, 0, 0.5);
+  background: rgba(0, 0, 0, 0.43);
 }
 
 .terms-banner {
@@ -630,7 +630,7 @@ p.deal__para {
   content: "";
   position: absolute;
   inset: 0;
-  background: rgba(0, 0, 0, 0.5);
+  background: rgba(0, 0, 0, 0.43);
 }
 
 h3.contacts__term {
@@ -669,28 +669,12 @@ h3.contacts__term {
 }
 
 /*Start-culinary-css */
-video::-webkit-media-controls {
-  display: none;
-}
-
-video {
-  display: block;
-}
-
 .culinary-banner {
   position: relative;
 }
 
 .culinary__video {
   position: relative;
-}
-
-.culinary__video::after {
-  position: absolute;
-  inset: 0;
-  background: rgba(0, 0, 0, 0.48);
-  content: "";
-  width: 100%;
 }
 
 .Culinary-content {
