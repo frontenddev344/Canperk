@@ -829,6 +829,11 @@ footer .policey ul li a:hover {
   color: #fff;
 }
 
+footer .policey ul li a:hover {
+  transform: translateY(-10px);
+  color: white;
+}
+
 @media (max-width: 1199px) {
   .container {
     max-width: 1400px !important;
