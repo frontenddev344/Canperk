@@ -832,7 +832,7 @@ footer .policey ul li a:hover {
 }
 
 footer .policey ul li a:hover {
-  transform: translateY(-10px);
+  padding-left: 20px;
   color: white;
 }
 
