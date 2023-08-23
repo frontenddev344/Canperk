@@ -158,6 +158,7 @@
   }
   .contact__text h2 {
     font-size: 40px;
+    white-space: nowrap;
   }
 }
 @media (max-width: 767px) {
