@@ -938,7 +938,6 @@ footer .policey ul li a:hover {
   }
   .contact__text h2 {
     font-size: 36px;
-    white-space: nowrap;
   }
 }
 @media (max-width: 768px) {
