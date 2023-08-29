@@ -838,6 +838,7 @@ footer .policey ul li a:hover {
 
 .track_picture.canada img {
   border-radius: 30px;
+  animation: none;
 }
 
 @media (max-width: 1199px) {
