@@ -259,6 +259,9 @@
 }
 
 @media (max-width:575px) {
+    .Track_part.canada.left h3 {
+        white-space: inherit;
+    }
     .contact__para p {
         font-size: 16px;
         line-height: 23px;
