@@ -904,6 +904,9 @@ footer .policey ul li a:hover {
   }
 }
 @media (max-width: 991px) {
+  .Track_part.canada {
+    padding-left: 0;
+  }
   .contact-text {
     padding: 40px 0;
   }
