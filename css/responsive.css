@@ -5,6 +5,9 @@
     margin: 0 auto;
     padding: 0 30px;
   }
+  .col-lg-6.col-md-12.col-sm-12.margin {
+    padding-bottom: 50px;
+  }
   .luxury-hotel__content h1 {
     font-size: 45px;
   }
