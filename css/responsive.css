@@ -259,6 +259,9 @@
   .Culinary-content h1 {
     font-size: 35px;
   }
+  .col-lg-6.col-md-12.col-sm-12.margin {
+    padding-bottom: 30px;
+  }
 }
 @media (max-width: 425px) {
   .site-header .site-btn a {
