@@ -903,7 +903,7 @@ footer {
 }
 
 footer .policey ul li a:hover {
-  padding-left: 20px;
+    padding-left: 20px;
     color: white;
 }
 
@@ -912,8 +912,10 @@ footer .policey ul li a:hover {
 //canadian-resort-start//
 .track_picture.canada img {
     border-radius: 30px;
-    animation: none !important;;
+    animation: none !important;
+    ;
 }
+
 //canadian-resort-end//
 
 @import 'responsive';
