@@ -851,6 +851,9 @@ footer .policey ul li a:hover {
   .col-lg-6.col-md-12.col-sm-12.margin {
     padding-bottom: 50px;
   }
+  .track_img.canada {
+    height: 100%;
+  }
   .luxury-hotel__content h1 {
     font-size: 45px;
   }
