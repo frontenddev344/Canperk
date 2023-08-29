@@ -170,6 +170,12 @@
   .privacy-banner {
     background-position: inherit;
   }
+  .Track_part.canada.left h3 {
+    white-space: inherit !important;
+  }
+  .Track_part.canada h3 {
+    white-space: inherit !important;
+  }
 }
 @media (max-width: 767px) {
   footer {
@@ -204,9 +210,6 @@
   }
 }
 @media (max-width: 575px) {
-  .Track_part.canada.left h3 {
-    white-space: inherit;
-  }
   .contact__para p {
     font-size: 16px;
     line-height: 23px;
@@ -365,7 +368,7 @@
     padding: 33px 21px;
   }
   .Track_part p {
-    font-size: 18px;
+    font-size: 16px;
   }
   p.deal__para {
     font-size: 12px;
